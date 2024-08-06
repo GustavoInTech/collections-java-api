@@ -12,4 +12,9 @@ public class Tarefa {
         return descricao;
     }
 
+    @Override
+    public String toString() {
+        return descricao;
+    }
+
 }
